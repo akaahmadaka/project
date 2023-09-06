@@ -1,0 +1,67 @@
+[Sat Aug 26 10:33:00 2023] PHP 8.2.5 Development Server (http://localhost:2525) started
+[Sat Aug 26 10:33:31 2023] [::1]:33926 Accepted
+[Sat Aug 26 10:33:31 2023] [::1]:33926 [302]: GET /
+[Sat Aug 26 10:33:31 2023] [::1]:33926 Closing
+[Sat Aug 26 10:33:31 2023] [::1]:33928 Accepted
+[Sat Aug 26 10:33:31 2023] [::1]:33928 [200]: GET /login.php
+[Sat Aug 26 10:33:31 2023] [::1]:33928 Closing
+[Sat Aug 26 10:33:32 2023] [::1]:33932 Accepted
+[Sat Aug 26 10:33:32 2023] [::1]:33932 [200]: GET /assets/css/bootstrap.min.css
+[Sat Aug 26 10:33:32 2023] [::1]:33932 Closing
+[Sat Aug 26 10:33:32 2023] [::1]:33946 Accepted
+[Sat Aug 26 10:33:32 2023] [::1]:33946 [200]: GET /assets/css/style.css
+[Sat Aug 26 10:33:32 2023] [::1]:33946 Closing
+[Sat Aug 26 10:33:32 2023] [::1]:33962 Accepted
+[Sat Aug 26 10:33:32 2023] [::1]:33962 [404]: GET /favicon.ico - No such file or directory
+[Sat Aug 26 10:33:32 2023] [::1]:33962 Closing
+[Sat Aug 26 10:33:41 2023] [::1]:43518 Accepted
+[Sat Aug 26 10:33:41 2023] [::1]:43518 [200]: POST /login.php
+[Sat Aug 26 10:33:41 2023] [::1]:43518 Closing
+[Sat Aug 26 10:33:42 2023] [::1]:43522 Accepted
+[Sat Aug 26 10:33:42 2023] [::1]:43522 [200]: GET /assets/css/bootstrap.min.css
+[Sat Aug 26 10:33:42 2023] [::1]:43522 Closing
+[Sat Aug 26 10:33:42 2023] [::1]:43538 Accepted
+[Sat Aug 26 10:33:42 2023] [::1]:43538 [200]: GET /assets/css/style.css
+[Sat Aug 26 10:33:42 2023] [::1]:43538 Closing
+[Sat Aug 26 10:33:42 2023] [::1]:43552 Accepted
+[Sat Aug 26 10:33:42 2023] [::1]:43552 [200]: GET /panel.php
+[Sat Aug 26 10:33:42 2023] [::1]:43552 Closing
+[Sat Aug 26 10:33:45 2023] [::1]:44830 Accepted
+[Sat Aug 26 10:33:45 2023] [::1]:44830 [200]: GET /assets/css/bootstrap.min.css
+[Sat Aug 26 10:33:45 2023] [::1]:44830 Closing
+[Sat Aug 26 10:33:45 2023] [::1]:44846 Accepted
+[Sat Aug 26 10:33:45 2023] [::1]:44846 [200]: GET /assets/css/light-theme.min.css
+[Sat Aug 26 10:33:45 2023] [::1]:44846 Closing
+[Sat Aug 26 10:33:45 2023] [::1]:44860 Accepted
+[Sat Aug 26 10:33:45 2023] [::1]:44860 [200]: GET /assets/js/jquery.min.js
+[Sat Aug 26 10:33:45 2023] [::1]:44860 Closing
+[Sat Aug 26 10:33:45 2023] [::1]:44868 Accepted
+[Sat Aug 26 10:33:45 2023] [::1]:44868 [200]: GET /assets/js/script.js
+[Sat Aug 26 10:33:45 2023] [::1]:44868 Closing
+[Sat Aug 26 10:33:45 2023] [::1]:44876 Accepted
+[Sat Aug 26 10:33:45 2023] [::1]:44876 [200]: GET /assets/js/sweetalert2.min.js
+[Sat Aug 26 10:33:45 2023] [::1]:44876 Closing
+[Sat Aug 26 10:33:45 2023] [::1]:44892 Accepted
+[Sat Aug 26 10:33:45 2023] [::1]:44892 [200]: GET /assets/js/growl-notification.min.js
+[Sat Aug 26 10:33:45 2023] [::1]:44892 Closing
+[Sat Aug 26 10:33:45 2023] [::1]:44900 Accepted
+[Sat Aug 26 10:33:45 2023] [::1]:44900 [200]: GET /Settings.json
+[Sat Aug 26 10:33:45 2023] [::1]:44900 Closing
+[Sat Aug 26 10:33:45 2023] [::1]:44902 Accepted
+[Sat Aug 26 10:33:45 2023] [::1]:44902 [200]: POST /list_templates.php
+[Sat Aug 26 10:33:45 2023] [::1]:44902 Closing
+[Sat Aug 26 10:33:48 2023] [::1]:44914 Accepted
+[Sat Aug 26 10:33:48 2023] [::1]:44914 [200]: POST /receiver.php
+[Sat Aug 26 10:33:48 2023] [::1]:44914 Closing
+[Sat Aug 26 10:33:50 2023] [::1]:44928 Accepted
+[Sat Aug 26 10:33:50 2023] [::1]:44928 [200]: POST /receiver.php
+[Sat Aug 26 10:33:50 2023] [::1]:44928 Closing
+[Sat Aug 26 10:34:49 2023] [::1]:38558 Accepted
+[Sat Aug 26 10:34:49 2023] [::1]:38558 [200]: GET /login.php
+[Sat Aug 26 10:34:49 2023] [::1]:38558 Closing
+[Sat Aug 26 10:34:51 2023] [::1]:38562 Accepted
+[Sat Aug 26 10:34:51 2023] [::1]:38562 [200]: GET /assets/css/bootstrap.min.css
+[Sat Aug 26 10:34:51 2023] [::1]:38564 Accepted
+[Sat Aug 26 10:34:51 2023] [::1]:38562 Closing
+[Sat Aug 26 10:34:51 2023] [::1]:38564 [200]: GET /assets/css/style.css
+[Sat Aug 26 10:34:51 2023] [::1]:38564 Closing
